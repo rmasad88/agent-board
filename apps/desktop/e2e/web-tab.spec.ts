@@ -262,7 +262,8 @@ test("a web tab from + Web… shows a local dev server's page, locked down: no f
     // Every permission is denied: notifications, geolocation, the camera.
     expect(await page.evaluate(() => Notification.requestPermission())).toBe('denied');
     expect(await page.evaluate(() => new Promise<number>((resolve) => navigator.geolocation.getCurrentPosition(() => resolve(0), (error) => resolve(error.code))))).toBe(1);
-    expect(await page.evaluate(() => navigator.mediaDevices.getUserMedia({ video: true }).then(() => 'granted', (error: Error) => error.name))).toBe('NotAllowedError');
+    // A machine with no camera says so first, though the page still gets none.
+    expect(process.platform === 'darwin' ? ['NotAllowedError'] : ['NotAllowedError', 'NotFoundError']).toContain(await page.evaluate(() => navigator.mediaDevices.getUserMedia({ video: true }).then(() => 'granted', (error: Error) => error.name)));
 
     // A download is cancelled, and devtools never open.
     const devToolsOpened = await app.evaluate(({ BrowserWindow }) => {

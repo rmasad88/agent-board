@@ -1,6 +1,6 @@
 import { expect, type Page } from '@playwright/test';
 import { rmSync } from 'node:fs';
-import { launch, sessionWindow, spawnAgent, tile, TURN_MS } from './agent-helpers.ts';
+import { launch, sessionWindow, spawnAgent, tile, TURN_MS, windowKey } from './agent-helpers.ts';
 import { browseForZone, classicOnly, pickFolderNext, removeDataDir, tempDataDir, test } from './launch.ts';
 import { scratch } from './scratch.ts';
 import { openSettings, settingsSection } from './settings-helpers.ts';
@@ -78,7 +78,7 @@ test("an agent's inspector opens from the header at the window's trailing edge, 
     await dragHandle(window, 2000);
     await expect(inspector(window)).toHaveCount(0);
     await expect(toggle(window)).toHaveAttribute('aria-pressed', 'false');
-    await window.keyboard.press('ControlOrMeta+i');
+    await window.keyboard.press(windowKey('i'));
     await expect(inspector(window)).toBeVisible();
     await expect.poll(() => width(window)).toBe(316);
 
@@ -217,7 +217,7 @@ test("Classic's Simple sidebar puts the inspector in place of the details strip,
     await expect.poll(() => width(window)).toBe(316);
     await toggle(window).click();
     await expect(inspector(window)).toHaveCount(0);
-    await window.keyboard.press('ControlOrMeta+i');
+    await window.keyboard.press(windowKey('i'));
     await expect(inspector(window)).toBeVisible();
 
     // Full again: the strip is back on its rail, and the toggle goes with the inspector.

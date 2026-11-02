@@ -5180,7 +5180,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5246,7 +5246,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5315,7 +5315,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5384,7 +5384,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5453,7 +5453,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5519,7 +5519,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5588,7 +5588,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5654,7 +5654,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5723,7 +5723,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5792,7 +5792,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5858,7 +5858,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5927,7 +5927,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -5993,7 +5993,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6062,7 +6062,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6128,7 +6128,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6197,7 +6197,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6263,7 +6263,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6332,7 +6332,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6398,7 +6398,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6467,7 +6467,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6533,7 +6533,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6602,7 +6602,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6668,7 +6668,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6737,7 +6737,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6803,7 +6803,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6872,7 +6872,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;
@@ -6938,7 +6938,7 @@
   --radius-item: 6px;
   --radius-window: 12px;
   --radius-2xl: 12px;
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Inter Variable', system-ui, sans-serif;
   --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
   --font-wordmark: 'Bricolage Grotesque Variable', system-ui, sans-serif;
   --font-size-xs: 11px;

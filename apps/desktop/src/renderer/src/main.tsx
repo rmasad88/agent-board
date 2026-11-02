@@ -2,6 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { describeBuild } from '@agent-board/daemon/protocol';
 import '@fontsource-variable/bricolage-grotesque/opsz.css';
+import '@fontsource-variable/inter/index.css';
 import '@fontsource-variable/jetbrains-mono/index.css';
 // Every subset (Latin Extended, Cyrillic): each loads only when a note uses its letters.
 import '@fontsource/caveat/600.css';
